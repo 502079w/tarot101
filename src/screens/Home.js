@@ -15,7 +15,7 @@ const Home = ({ chooseSpreadType, navigate }) => {
 
   return (
     <div>
-      <h1 className="page-title">Escolha o tipo de tiragem:</h1>
+      <h1 className="page-title">카드 선택하기:</h1>
       <Row>
         <Col lg="3" md="4" sm="6" xs="12" offset={['lg', 3]}>
           <button className="button-spread-type" onClick={() => handleChoice('simple')}>
