@@ -1,7 +1,7 @@
 export const arcanums = {
 	major: {
 		0: {
-      name: 'O Louco',
+      name: 'The Fool',
       attribute: 'O Princípio',
       meaning: 'Decisão importante. Você encontra-se diante de uma escolha que deve decidir com cuidado, mas também com coragem e, sobretudo, atendendo a sua intuição e seus impulsos. Os riscos devem ser assumidos.',
       inverse: 'Há perigo de que se escolha mal. É aconselhável atuar com a máxima precaução e prudência. Tendências a insensatez, irresponsabilidade, egoísmo, fantasia e obsessão.',

@@ -2,7 +2,7 @@ export const spreadTypes = {
   simple: {
     amountCards: 1,
     className: 'simple',
-    description: 'Esta é a tiragem mais simples e rápida. Ela oferece uma visão geral sobre a sua questão.',
+    description: '1카드 스프레드',
     cardsFeatures: {
       0: 'Visão geral'
     }
@@ -10,7 +10,7 @@ export const spreadTypes = {
   period:{
     amountCards: 3,
     className: 'period',
-    description: 'Esta tiragem oferece uma visão sobre o passado, presente e futuro da sua questão.',
+    description: '3카드 스프레드',
     cardsFeatures: {
       0: '과거',
       1: '현재',
