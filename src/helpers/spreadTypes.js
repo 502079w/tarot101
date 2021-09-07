@@ -12,9 +12,9 @@ export const spreadTypes = {
     className: 'period',
     description: 'Esta tiragem oferece uma visão sobre o passado, presente e futuro da sua questão.',
     cardsFeatures: {
-      0: 'Passado',
-      1: 'Presente',
-      2: 'Futuro'
+      0: '과거',
+      1: '현재',
+      2: '미래'
     }
   }
 }
