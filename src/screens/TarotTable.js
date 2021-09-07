@@ -38,9 +38,9 @@ class TarotTable extends Component {
     const amountCards = spreadTypes[this.props.spreadType].amountCards
     const message = `
       ${amountCards}
-      ${amountCards === 1 ? '카드' : '카드s'}
+      ${amountCards === 1 ? '1' : '3s'}
     `
-    return(<h1 className="page-title">Mentalize sua questão e escolha {message}</h1>)
+    return(<h1 className="page-title">카드 {message}장을 선택하세요! ♥</h1>)
   }
 
   buildCards(){
